@@ -28,3 +28,12 @@ Avances del proyecto portafolio, creación de controladores, creación de rutas 
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/4afba427-8812-48ed-9fc7-72f35b0abaf0)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/e8dd92ec-2f89-4514-a0d8-da1a6cfbeb47)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/ba6b6f2c-9b04-4f97-9315-3f8f054d647d)
+
+## Capturas Registro de usuario y login del usuario
+![WhatsApp Image 2023-12-22 at 09 47 13](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ca738912-171f-4d13-90e9-34dd727da9c7)
+![WhatsApp Image 2023-12-22 at 09 47 47](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/cc44ba81-b44f-439f-8b7a-3ee1b056c879)
+
+## Capturas Claudinary Imagenes
+![WhatsApp Image 2023-12-22 at 09 54 11](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ece94aed-1ebb-4e81-a53e-98c052fda00f)
+![WhatsApp Image 2023-12-22 at 09 54 27](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/04742f64-41dd-49e3-9e91-f3fd5f12f6b5)
+![WhatsApp Image 2023-12-22 at 09 55 02](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/2e9581be-26a0-4e0b-8fd5-fb879beb6dc0)
